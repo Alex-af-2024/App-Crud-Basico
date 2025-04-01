@@ -1,1 +1,1 @@
-Es un priyecto tricapa que solicita hace crud.
+Es un proyecto tricapa que solicita hace crud.
